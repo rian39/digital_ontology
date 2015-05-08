@@ -1,0 +1,37 @@
+
+# Note on ontology
+
+- Under what conditions does something become a matter of ontological interest, investment, or an ontological problem? I guess my criteria for that would be: things that affect whole spaces of existence. 
+
+- my presentation at the last iteration of this workshop can largely be ignored -- too much ontology, too many competing abstractions.
+- But I do want to stick with one thing -- `kittydar`, the cat recognition device I showed then. 
+- Do I need to show it again? I regard it as a typical contemporary digital device. There are many others.
+
+## the digital as edge
+
+- kittydar is an example of an edge detector. 
+- I'd suggest that it might be worth thinking about the digital as a kind of edge. Edges can connect things (as in the networks where edges connect nodes) or bound things (the edge of the world). 
+- if the digital is an edge, how would we detect this edge and what it edges?
+- The edginess of the digital might be understood in the way ML understands sex. Remember that for MF, sex is an edge between the disciplinary techniques of the body and far-reaching regulatory mechanisms of populations he called biopolitics.  
+- How did sex play this pivotal role? Because  sex on the one hand was intimately bound up with the energies and transient pluralities of bodies, and on the other hand, populations are the far reaching effects of activities associated with sex. 
+- Sex was a troubling pivot between disciplinary techniques and biopower. A whole series of investments, reconfigurations, partitions, struggles and interiorities unfurl around it, transforming as MF puts it, 'the whole space of existence.' I'm not sure MF would see sex as an ontological problem, but it definitely had ontological import.
+- I'm only alluding to all this briefly as the key point here is that sex was an edge across which whole political and economical transformations projected.
+
+## the digital edge
+
+- What if we approach the importance of the digital as a political, ethical, economic and ontological issue in a similar way? There are various ways in which we might do this. And there are various problems in doing it (for instance, what in the digital has the disorderly multiplicities that we see in madness, crime or sex?).
+- from kittydar I draw out three threads that might relate to the digital as an edge, as a pivot through which many transformations project.
+    - as a technique of the body: kittydar imitates and thereby redistributes bodily sensations and perceptual processes, in this case associated with seeing. The accumulation of cat pictures as the disordered multiplicity that edge detectors like kittydar start to order
+    - as a disciplining of the sensible in which the plurality, plenitude and panoply of traits are observed and examined from a new angle, with the purpose of discovering orientations and gradients that can be traversed smoothly
+    - as an entity whose very existence attests the generalization of techniques of ranking and regulation across widely disparate domains (media, science, government) with minimal discontinuity
+
+
+## Closing questions
+
+- Under what conditions do such devices attract or trigger ontologies?
+- We might show how the digital took form in different ways, and the digital in itself has taken shape inside the deployments of something more diffuse, something more like digitalities. 
+- How would be conceptualize that deployment? MF says we should conceptualize the deployment of sex on the basis of the techniques of power that are contemporary with it. (MF, 150) 
+- On the basis of what techniques of power would we conceptualize the digital?
+- What we might learn from kittydar, amidst all its errors, is that all edges are gradients. There is no ontological edge, ontological gradients across which changes and transformations occur. The edge detector that is kittydar is a gradient mapper. It maps gradients along with their orientations (left, right, up, down) and tries to see if those gradients and orientations make for ontological differences -- cat or not cat; person who looks like a cat, etc. 
+
+
